@@ -1,0 +1,11 @@
+C:\Projetos\numpuz\Numpuz\bin\Debug\Numpuz.exe.config
+C:\Projetos\numpuz\Numpuz\bin\Debug\Numpuz.exe
+C:\Projetos\numpuz\Numpuz\bin\Debug\Numpuz.pdb
+C:\Projetos\numpuz\Numpuz\obj\Debug\Numpuz.csproj.AssemblyReference.cache
+C:\Projetos\numpuz\Numpuz\obj\Debug\Numpuz.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\numpuz\Numpuz\obj\Debug\Numpuz.Form1.resources
+C:\Projetos\numpuz\Numpuz\obj\Debug\Numpuz.Properties.Resources.resources
+C:\Projetos\numpuz\Numpuz\obj\Debug\Numpuz.csproj.GenerateResource.cache
+C:\Projetos\numpuz\Numpuz\obj\Debug\Numpuz.csproj.CoreCompileInputs.cache
+C:\Projetos\numpuz\Numpuz\obj\Debug\Numpuz.exe
+C:\Projetos\numpuz\Numpuz\obj\Debug\Numpuz.pdb
